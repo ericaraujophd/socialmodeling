@@ -1,0 +1,55 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: d974cac4-35ba-4711-a2e8-b0fc02be0be9
+  title: "Social Computing Course"
+  subtitle: HNRS-251-A - Honors Computer Science + Social Sciences
+  bibliography: references.bib
+  # description:
+  # keywords: []
+  keywords:
+    - agent-based modeling
+    - social sciences
+    - computational methods
+  authors:
+    - name: Eric Araújo
+      email: eric.araujo@calvin.edu
+      corresponding: true
+    - name: Jonathan Hill
+      email: jonathan.hill@calvin.edu
+      corresponding: true
+  github: ericaraujophd/socialmodeling
+  toc:
+    - file: intro.md
+    - file: organization.md
+    - file: policies.md
+    # - title: Part 2
+    #   children:
+    #     - file: 02-notebook.ipynb
+    #     - file: 01-paper.md
+  exports:
+    # - format: typst
+    - format: pdf
+    # - template: lapreprint-typst
+    # - template: physiome
+    # - template: ieee-typst
+    # - template: plain_latex_book
+    - template: plain_latex
+    # - template: curvenote
+    - output: my-document.pdf
+      articles:
+        - intro.md
+        - organization.md
+        - policies.md
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+    folders: true
+    favicon: imgs/logos/logo.png
+    logo: imgs/logos/logo.png
+    logo_dark: imgs/logos/logo_dark.png
+    logo_text: HNRS-251-A
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
