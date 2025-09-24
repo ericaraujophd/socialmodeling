@@ -1,23 +1,63 @@
-# MyST Quickstart
+# Social Computing Course Website
 
-[![Made with MyST](https://img.shields.io/badge/made%20with-myst-orange)](https://myst.tools)
+Welcome to the **Agent-Based Modeling & Social Theory** course (HNRS-251-A), part of the Honors program at Calvin University. This repository hosts the course website, which serves as the central hub for all course materials, including the syllabus, schedule, and assignments.
 
-This repository contains the files used in the [quickstart guide](https://mystmd.org/guide/quickstart), and can be used to follow that guide, before trying MyST with your own content.
+---
 
-> **Note** This is **not** a good example of an actual MyST project! The repositories purpose is to be a simple markdown + notebook repository that can be transformed throughout a tutorial.
+## Course Overview
 
-The goals of the [quickstart guide](https://myst.tools/docs/mystjs/quickstart) are:
+This course explores agent-based modeling (ABM) as a tool for understanding social phenomena. Students will engage in hands-on projects, applying computational methods to analyze and simulate social systems. The course is structured into modules, each focusing on a specific topic, such as segregation, contagion, cooperation, and polarization.
 
-1. Create a `myst` site, using the standard template
-2. Improve the frontmatter, to add authors, affiliations and other metadata
-3. Export the paper as a PDF, Word document, and LaTeX files
-4. Integrate a Jupyter Notebook output into our paper, to improve reproducibility
-5. Publish a website of with our work 🚀
+---
 
-## Improving Frontmatter and MyST Site
+## Repository Structure
 
-![](./images/frontmatter-after.png)
+- **`intro.md`**: Introduction to the course, including its goals and philosophical underpinnings.
+- **`organization.md`**: Details about the course structure, including modules, class schedule, and important dates.
+- **`policies.md`**: Course policies, grading rubric, and expectations.
+- **`myst.yml`**: Configuration file for the MyST Markdown-based website.
+- **`requirements.txt`**: Python dependencies for running the course notebooks and building the site.
+- **`imgs/`**: Directory containing images used in the course materials.
 
-## Export as a PDF
+---
 
-![](./images/export-pdf.png)
+## Website Workflow
+
+This repository uses [MyST Markdown](https://mystmd.org/) to build the course website. The site is hosted on GitHub Pages and is automatically updated with each push to the `main` branch.
+
+### Local Development
+
+1. **Install Dependencies**:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Build the Site**:
+
+   ```bash
+   myst build --html
+   ```
+
+3. **Preview the Site**:
+
+   Start a local server to preview the site:
+
+   ```bash
+   myst start
+   ```
+
+   Open your browser and navigate to the URL provided by the `myst start` command (usually `http://localhost:3000`).
+
+---
+
+## Authors
+
+- **Eric Araújo** (<eric.araujo@calvin.edu>)
+- **Jonathan Hill** (<jonathan.hill@calvin.edu>)
+
+---
+
+## License
+
+This repository is licensed under the MIT License. See the `LICENSE` file for details.
