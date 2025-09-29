@@ -2,7 +2,7 @@
 version: 1
 project:
   id: d974cac4-35ba-4711-a2e8-b0fc02be0be9
-  title: "Social Computing Course"
+  title: "HNRS-251-A"
   subtitle: HNRS-251-A - Honors Computer Science + Social Sciences
   bibliography: references.bib
   # description:
@@ -21,12 +21,28 @@ project:
   github: ericaraujophd/socialmodeling
   toc:
     - file: intro.md
-    - file: organization.md
-    - file: policies.md
-    # - title: Part 2
-    #   children:
-    #     - file: 02-notebook.ipynb
-    #     - file: 01-paper.md
+    - title: Course Information
+      children:
+        - file: organization.md
+        - file: policies.md
+    - title: "Module 1: Introduction"
+    - file: introduction/slos.md
+      children:
+        - file: introduction/week01.md
+        - file: introduction/week02.md
+    - title: "Module 2: Segregation"
+    - file: segregation/slos.md
+      children:
+        - file: segregation/week03.md
+        - file: segregation/week04.md
+        - title: Coding the Schelling Model
+        - file: segregation/tutorial/tutorial.md
+          children:
+            - file: segregation/tutorial/01_setup.md
+            - file: segregation/tutorial/02_households.md
+            - file: segregation/tutorial/03_dynamics.md
+            - file: segregation/tutorial/04_monitors.md
+            - file: segregation/tutorial/05_batch_run.md
   exports:
     # - format: typst
     - format: pdf
@@ -50,6 +66,4 @@ site:
     logo: imgs/logos/logo.png
     logo_dark: imgs/logos/logo_dark.png
     logo_text: HNRS-251-A
-  # options:
-  #   favicon: favicon.ico
-  #   logo: site_logo.png
+
