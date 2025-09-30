@@ -5,6 +5,7 @@ project:
   title: "HNRS-251-A"
   subtitle: HNRS-251-A - Honors Computer Science + Social Sciences
   bibliography: references.bib
+  
   # description:
   # keywords: []
   keywords:

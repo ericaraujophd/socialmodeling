@@ -1,7 +1,7 @@
 # Week 01
 
 :::{admonition} ❗❗❗ Assignments Due This Week
-:class: important
+:class: dropdown
 :icon: false
 **No assignments due this week.** The first major assignments are due starting at Week 2.
 :::

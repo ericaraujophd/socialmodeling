@@ -1,7 +1,7 @@
 # Week 02
 
 :::{admonition} ❗❗❗ Assignments Due This Week
-:class: important
+:class: dropdown
 :icon: false
 **SRG** is due this week before Class 03. Make sure to read the assigned texts and to prepare for discussion.
 :::

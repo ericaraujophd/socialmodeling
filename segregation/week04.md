@@ -1,7 +1,7 @@
 # Week 04
 
 :::{admonition} ❗❗❗ Assignments Due This Week
-:class: important
+:class: dropdown
 :icon: false
 - **Lab Memo #2** is due this week. Submit the assignment by 9/23 before class.
 - **SRG** is required for Class 07.

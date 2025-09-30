@@ -1,9 +1,10 @@
 # Week 03
 
 :::{admonition} ❗❗❗ Assignments Due This Week
-:class: important
+:class: dropdown
 :icon: false
-**Lab Memo #1** is due this week. Submit the assignment by 9/18 before class. **SRG** is required for Class 05.
+- **Lab Memo #1** is due this week. Submit the assignment by 9/18 before class. 
+- **SRG** is required for Class 05.
 :::
 
 ---
