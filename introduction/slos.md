@@ -1,4 +1,4 @@
-# Module 1: Introduction
+# SLOs | Intro
 
 Welcome to the **Introduction to Agent-Based Modeling & Social Theory** module! This foundational module introduces the intersection of computer science and social science, exploring how computational methods can help us understand human behavior and social phenomena.
 

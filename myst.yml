@@ -5,7 +5,7 @@ project:
   title: "HNRS-251-A"
   subtitle: HNRS-251-A - Honors Computer Science + Social Sciences
   bibliography: references.bib
-  
+
   # description:
   # keywords: []
   keywords:
@@ -27,23 +27,23 @@ project:
         - file: organization.md
         - file: policies.md
     - title: "Module 1: Introduction"
-    - file: introduction/slos.md
       children:
+        - file: introduction/slos.md
         - file: introduction/week01.md
         - file: introduction/week02.md
     - title: "Module 2: Segregation"
-    - file: segregation/slos.md
       children:
+        - file: segregation/slos.md
         - file: segregation/week03.md
         - file: segregation/week04.md
-        - title: Coding the Schelling Model
+    - title: "Appendix A: Segregation Model"
+      children:
         - file: segregation/tutorial/tutorial.md
-          children:
-            - file: segregation/tutorial/01_setup.md
-            - file: segregation/tutorial/02_households.md
-            - file: segregation/tutorial/03_dynamics.md
-            - file: segregation/tutorial/04_monitors.md
-            - file: segregation/tutorial/05_batch_run.md
+        - file: segregation/tutorial/01_setup.md
+        - file: segregation/tutorial/02_households.md
+        - file: segregation/tutorial/03_dynamics.md
+        - file: segregation/tutorial/04_monitors.md
+        - file: segregation/tutorial/05_batch_run.md
   exports:
     # - format: typst
     - format: pdf

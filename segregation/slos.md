@@ -1,4 +1,4 @@
-# Module 2: Segregation
+# SLOs | Segregation
 
 Welcome to the Segregation Models module! This section explores computational models of residential segregation, building on Thomas Schelling's groundbreaking work {cite}`schelling1971dynamic` on how individual preferences can lead to collective patterns of segregation. We will generalize the residential model and see ways to apply it to other contexts.
 
@@ -76,6 +76,7 @@ By the end of this module, students will be able to:
 3. **Ryan Burge.** "The Most Segregated Hour? Rethinking Race and Religion in America".
    - 📖 [Link to Article](https://substack.com/home/post/p-172087570)
    - 📖 [Link to PDF Article](../readings/module2/optional/The-Most-Segregated-Hour.pdf)
+4. Doug McAdam. (1999). Political Process and the Development of Black Insurgency, 1930-1970.
 :::
 
 :::{tab-item} 📽️ Inspirational Videos
