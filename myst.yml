@@ -29,6 +29,10 @@ project:
     - title: "Module 1: Introduction"
       children:
         - file: introduction/slos.md
+        - file: introduction/class01.md
+        - file: introduction/class02.md
+        - file: introduction/class03.md
+        - file: introduction/class04.md
         - file: introduction/week01.md
         - file: introduction/week02.md
     - title: "Module 2: Segregation"

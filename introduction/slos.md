@@ -63,7 +63,7 @@ By the end of this module, students will be able to accomplish the following SLO
 1. **Halls, W. D., & Lukes, S.** (1982). Durkheim:The Rules of Sociological Method and Selected Texts on Sociology and Its Method. Excerpt.
    - 📖 [PDF Download](../readings/module1/Durkheim-exerpt-from-Rules-of-Sociological-Method.pdf)
 
-2. **Weber, M.** (1949). " Objectivity" in social science and social policy. The methodology of the social sciences, 49-112. Excerpt.
+2. **Weber, M.** (1949). "Objectivity" in social science and social policy. The methodology of the social sciences, 49-112. Excerpt.
    - 📖 [PDF Download](../readings/module1/Weber-excerpt-from-Objectivity-in-Social-Science-and-Social-Policy.pdf)
 :::
 
