@@ -33,13 +33,17 @@ project:
         - file: introduction/class02.md
         - file: introduction/class03.md
         - file: introduction/class04.md
-        - file: introduction/week01.md
-        - file: introduction/week02.md
+        # - file: introduction/week01.md
+        # - file: introduction/week02.md
     - title: "Module 2: Segregation"
       children:
         - file: segregation/slos.md
-        - file: segregation/week03.md
-        - file: segregation/week04.md
+        - file: segregation/class01.md
+        - file: segregation/class02.md
+        - file: segregation/class03.md
+        - file: segregation/class04.md
+        # - file: segregation/week03.md
+        # - file: segregation/week04.md
     - title: "Appendix A: Segregation Model"
       children:
         - file: segregation/tutorial/tutorial.md

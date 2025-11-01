@@ -1,42 +1,37 @@
 ---
 title: 1.4 NetLogo Basics
-subtitle: Class 04
+subtitle: Heckman Library 406C
+date: 2025-09-11
 exports:
   - format: pdf
     template: lapreprint-typst
-    output: exports/class04.pdf
-    id: class04-pdf
+    output: exports/class104.pdf
+    id: class104-pdf
+downloads:
+  - id: class04-pdf
+    title: A PDF of this document
 abbreviations:
   SRG: "Student Reading Group"
 ---
 
-**Location:** Heckman Library 406C
+---
 
-**Date:** Thursday, September 11
-
-:::{admonition} 🖥️ Session A (Lab)
-:icon: false
-:class: hint
+## 🖥️ Session A (Lab)
 
 - **Summary:** NetLogo basics—interface, parameters, behaviors.
-:::
 
 ---
 
-:::{admonition} 🖥️ Session B (Workshop)
-:icon: false
-:class: note
+## 🖥️ Session B (Workshop)
 
 - **Summary:** Micro-exercise: Adjust one parameter in a simple model, note results.
-:::
 
 ---
 
-:::{admonition} 💻 Assignment: Lab Memo #1
-:label: lab-memo-1
-:icon: false
+(lab-memo-1)=
+## 💻 **Assignment:** Lab Memo #1
 
-**Due:** 9/16 before class | **Points:** 100 points
+**Due:** 9/18 before class | **Points:** 100 points
 
 **Prompt (1-2 pages):**
 
@@ -49,5 +44,3 @@ abbreviations:
 3. Submit your Lab Memo in PDF format through Moodle.
 
 [Here is one example of a Lab Memo](../resources/lab-memos/Lab_Memo_Worksheet_Example.pdf) for the Fire model. Use it as a guide for writing your own lab memos during this course.
-:::
-

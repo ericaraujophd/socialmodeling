@@ -70,16 +70,16 @@ This course is organized in **modules**. Each module typically lasts 2 weeks and
 | **Week** | **Dates**    | 📖 **SRG Prep** | 🧪 **Lab Memo** | 🎓 **Project Milestone** | 🗂️ **Other/Notes** |
 |:-------:|:------------:|:--------------:|:--------------:|:----------------------:|:------------------:|
 | 1       | Sep 2 & 4    |                |                |                       | Course intro       |
-| 2       | Sep 9 & 11   | ✅ #1           | ✅ #1           |                       |                    |
-| 3       | Sep 16 & 18  | ✅ #2           | ✅ #2           |                       |                    |
-| 4       | Sep 23 & 25  | ✅ #3           | ✅ #3           |                       |                    |
-| 5       | Sep 30 & Oct 2| ✅ #4          | ✅ #4           |                       |                    |
+| 2       | Sep 9 & 11   | ✅ #1           | [✅ #1](#lab-memo-1)           |                       |                    |
+| 3       | Sep 16 & 18  | ✅ #2           | [✅ #2](#lab-memo-2)           |                       |                    |
+| 4       | Sep 23 & 25  | ✅ #3           | [✅ #3](#lab-memo-3)           |                       |                    |
+| 5       | Sep 30 & Oct 2| ✅ #4          | [✅ #4](#lab-memo-4)           |                       |                    |
 | 6       | Oct 7 & 9    | ✅ #5           |                |                       |                    |
-| 7       | Oct 14 & 16  | ✅ #6           | ✅ #5           |                       |                    |
+| 7       | Oct 14 & 16  | ✅ #6           | [✅ #5](#lab-memo-5)           |                       |                    |
 | 8       | Oct 21 & 23  |                |                | ✅ Proposal           |                    |
 | 9       | Oct 28 & 30  | ✅ #7           |                | ✅ Schema & Pseudocode|                    |
-| 10      | Nov 4 & 6    | ✅ #8           | ✅ #6           |                       |                    |
-| 11      | Nov 11 & 13  | ✅ #9           | ✅ #7           |                       |                    |
+| 10      | Nov 4 & 6    | ✅ #8           | [✅ #6](#lab-memo-6)           |                       |                    |
+| 11      | Nov 11 & 13  | ✅ #9           | [✅ #7](#lab-memo-7)           |                       |                    |
 | 12      | Nov 18 & 20  |                |                | ✅ Alpha              |                    |
 | 13      | Nov 25       |                |                | ✅ Beta Demo          |                    |
 | 14      | Dec 2 & 4    | ✅ #10          |                |                       | Poster Draft       |
@@ -88,7 +88,7 @@ This course is organized in **modules**. Each module typically lasts 2 weeks and
 <!-- | **Week** | **Dates**    | 📖 **SRG Prep** | 🧪 **Lab Memo** | 📝 **Reflection Essay** | 🎓 **Project Milestone** | 🗂️ **Other/Notes** |
 |:-------:|:------------:|:--------------:|:--------------:|:---------------------:|:----------------------:|:------------------:|
 | 1       | Sep 2 & 4    |                |                |                       |                       | Course intro       |
-| 2       | Sep 9 & 11   | ✅ #1           | ✅ #1           |                   |                       |                    |
+| 2       | Sep 9 & 11   | ✅ #1           | [✅ 1](#lab-memo-1)        |                   |                       |                    |
 | 3       | Sep 16 & 18  | ✅ #2           | ✅ #2           |                        |                       |                    |
 | 4       | Sep 23 & 25  | ✅ #3           | ✅ #3           | ✅ #1                       |                       |                    |
 | 5       | Sep 30 & Oct 2| ✅ #4          | ✅ #4           |                       |                       |                    |
