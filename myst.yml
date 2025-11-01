@@ -5,7 +5,6 @@ project:
   title: "HNRS-251-A"
   subtitle: HNRS-251-A - Honors Computer Science + Social Sciences
   bibliography: references.bib
-
   # description:
   # keywords: []
   keywords:
@@ -44,6 +43,9 @@ project:
         - file: segregation/class04.md
         # - file: segregation/week03.md
         # - file: segregation/week04.md
+    - title: "Module 3: Contagion"
+      children:
+          - file: contagion/slos.md
     - title: "Appendix A: Segregation Model"
       children:
         - file: segregation/tutorial/tutorial.md
@@ -66,7 +68,6 @@ project:
         - intro.md
         - organization.md
         - policies.md
-  # To autogenerate a Table of Contents, run "myst init --write-toc"
 site:
   template: book-theme
   options:

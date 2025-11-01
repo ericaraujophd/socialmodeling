@@ -8,7 +8,7 @@ exports:
     output: exports/class203.pdf
     id: class203-pdf
 downloads:
-  - id: class03-pdf
+  - id: class203-pdf
     title: A PDF of this document
 abbreviations:
   SRG: "Student Reading Group"

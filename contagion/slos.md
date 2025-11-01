@@ -12,15 +12,12 @@ Contagion models help us understand how things spread - from infectious diseases
 
 By the end of this module, students will be able to:
 
-::::{tab-set}
-
-:::{tab-item} Core SLOs
+### Core SLOs
 
 - Construct data-driven, mathematical, statistical, and/or software models, analyzing their results to answer questions, solve problems, support arguments, draw conclusions, make predictions, and/or identify possible causal relationships.
 - Identify and use tools appropriate for solving a given problem, such as algebra, calculus, and other mathematical tools; spreadsheets, databases, and data-analysis software; domain-specific software; and/or writing one's own software.
-:::
 
-:::{tab-item} Conceptual SLOs
+### Conceptual SLOs
 
 - Distinguish between different types of contagion (biological, social, behavioral)
 - Explain the role of network structure in contagion processes
@@ -28,36 +25,29 @@ By the end of this module, students will be able to:
 - Understand concepts like basic reproduction number (R₀) and herd immunity
 - Connect threshold models to collective behavior and social movements
 - Evaluate how individual thresholds aggregate to produce collective outcomes
-:::
 
-:::{tab-item} Technical SLOs
+### Technical SLOs
 
 - Implement SIR and SEIR epidemiological models in NetLogo
 - Model contagion on different network topologies
 - Create threshold-based models for collective behavior
 - Analyze the effects of intervention strategies on spread dynamics
 - Visualize and interpret contagion simulation results
-- Build protest/mobilization models with varying threshold distributions
-:::
 
-:::{tab-item} Critical Thinking
+### Critical Thinking
 
 - Evaluate the effectiveness of public health interventions
 - Assess the parallels and differences between biological and social contagion
 - Critique assumptions in contagion models and their real-world applicability
 - Analyze the ethical implications of contagion research and policy
 - Compare model predictions with real-world contagion phenomena
-:::
 
-:::{tab-item} Communication
+### Communication
 
 - Present findings from contagion simulation experiments clearly
 - Discuss the policy implications of different intervention strategies
 - Explain complex contagion concepts to non-technical audiences
 - Connect model insights to contemporary public health and social issues
-:::
-
-::::
 
 ---
 
@@ -87,22 +77,28 @@ American Journal of Sociology, 83(6), 1420-1443.
 :::
 
 :::{tab-item} Week 6 Reading
-**Charles Tilly (2004)**  
-*Social Movements, 1768–2004*  
-Paradigm Publishers, Chapter 1.
+**Damon Centola (2010)**  
+*"The Spread of Behavior in an Online Social Network Experiment"*  
+Science, 329(5996), 1194–1197.  
+[Link to Article](https://doi.org/10.1126/science.1185231)
+
+**Damon Centola & Michael Macy (2007)**  
+*"Complex Contagions and the Weakness of Long Ties"*  
+American Journal of Sociology, 113(3), 702–734.  
+[Link to Article](https://doi.org/10.1086/521848)
 
 **Key concepts:**
 
-- Historical evolution of social movements
-- WUNC displays (Worthiness, Unity, Numbers, Commitment)
-- Repertoires of contention
-- Political opportunity structures
+- Complex contagion vs. simple contagion
+- The role of network structure in behavior spread
+- Weak ties vs. strong ties in social diffusion
+- Experimental validation of contagion theories
 
 **Discussion questions:**
 
-1. How have social movement tactics evolved historically?
-2. What makes some movements successful while others fail?
-3. How do digital technologies change movement organization?
+1. How does complex contagion differ from simple contagion?
+2. Why might weak ties be less effective for spreading behavior than for spreading information?
+3. What are the implications for social movement organization and technology adoption?
 :::
 
 ::::
@@ -113,19 +109,19 @@ Paradigm Publishers, Chapter 1.
 
 :::{tab-item} Videos
 
-- **"The Mathematics of Social Contagion"** (Complexity Explorer)
-- **"Network Effects in Social Movements"** (Santa Fe Institute)
-- **"Threshold Models Explained"** (NetLogo User Community)
-- **"Arab Spring and Social Media"** (TED Talk)
-
+- How Behavior Spreads: The Science of Complex Contagions (Damon Centola) [Link](https://www.youtube.com/watch?v=j5PTukNU4gU)
+- Nicholas Christakis, "Social Contagion" [Link](https://www.youtube.com/watch?v=NjgPJi-FBP4)
+- Nicholas Christakis: The hidden influence of social networks [Link](https://www.youtube.com/watch?v=2U-tOghblfE)
+- Feeling Their Vibes? Uncovering the Mystery of Emotional Contagion 🧠💫 [Link](https://www.youtube.com/watch?v=gjc-wH-r-UA)
+- Are Your Emotions Contagious? | On Mirror Neurons [Link](https://www.youtube.com/watch?v=HTFdMwCXpMw)
 :::
 
 :::{tab-item} Articles
 
-- Centola, D. (2018). *How Behavior Spreads*. Chapter 3: "Social Contagion"
-- Watts, D. J. (2002). "A simple model of global cascades on random networks"
-- González-Bailón, S. (2011). "The dynamics of protest recruitment through online social networks"
-- Steinert-Threlkeld, Z. C. (2017). "Spontaneous collective action: Peripheral mobilization during the Arab Spring"
+- **Centola, D.** (2018). ["How Behavior Spreads". Chapter 3: "Social Contagion"](https://press.princeton.edu/books/hardcover/9780691175317/how-behavior-spreads?srsltid=AfmBOop9fIQRI8p5_8EL2MteLDdIIbitq0gWFPS5yhASPYfTWtbPuP0r)
+- **Watts, D. J.** (2002). ["A simple model of global cascades on random networks"](https://www.pnas.org/doi/10.1073/pnas.082090499)
+- **González-Bailón, S.** (2011). ["The dynamics of protest recruitment through online social networks"](https://www.nature.com/articles/srep00197)
+- **Steinert-Threlkeld, Z. C.** (2017). ["Spontaneous collective action: Peripheral mobilization during the Arab Spring"](https://ideas.repec.org/a/cup/apsrev/v111y2017i02p379-403_00.html)
 
 :::
 

@@ -8,7 +8,7 @@ exports:
     output: exports/class101.pdf
     id: class101-pdf
 downloads:
-  - id: class01-pdf
+  - id: class101-pdf
     title: A PDF of this document
 abbreviations:
   ABM: "Agent-Based Modeling"
@@ -18,12 +18,22 @@ abbreviations:
 
 ## 🖥️ Session A (Lab)
 
-- **Summary:** What is ABM? Live demo in NetLogo (Starling's murmuration, Wolf-Sheep Predation, and fire model).
-- **Slides:** [Introduction to Models: What is ABM?](https://www.beautiful.ai/player/-OYwxXlG8W2V47ICr6Vp)
+What is ABM? Live demo in NetLogo 
+
+- Starling's murmuration
+- Wolf-Sheep Predation
+- Fire model
+
+🔆 [Introduction to Models: What is ABM? (Slides)](https://www.beautiful.ai/player/-OYwxXlG8W2V47ICr6Vp)
 
 ---
 
 ## 🚦 Session B (Orientation)
 
-- **Summary:** Course orientation. Syllabus overview, grading, expectations. Introduction to project & SRGs.
-- **Slides:** [Course Orientation](https://www.beautiful.ai/player/-OZ6zWBYa_EA2PUuxQS_)
+- Course orientation.
+- Syllabus overview, grading, expectations. 
+- Introduction to project & SRGs.
+
+🔆 [Course Orientation (Slides)](https://www.beautiful.ai/player/-OZ6zWBYa_EA2PUuxQS_)
+
+---

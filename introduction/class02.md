@@ -18,14 +18,20 @@ abbreviations:
 
 ## 📔 Session A (Lecture)
 
-- **Summary:** Emergence of the social sciences; classical theories; fundamental debates.
-  - Sociology distinct from psychology: focus on emergence and social facts (Durkheim).
-- **Slides:** [Emergence of the social sciences](https://www.beautiful.ai/player/-OZFluJbfXBTCEYfCix5)
+- Emergence of the social sciences.
+- Classical theories.
+- Fundamental debates.
+- Sociology distinct from psychology: focus on emergence and social facts (Durkheim).
+
+🔆 [Emergence of the social sciences (Slides)](https://www.beautiful.ai/player/-OZFluJbfXBTCEYfCix5)
 
 ---
 
 ## 📔 Session B (Lecture)
 
-- **Summary:** Models and methods: Where does ABM fit? Connect emergence to ABM: micro → macro link as ABM’s strength.
+- Models and methods.
+- Where does ABM fit?
+- Connect emergence to ABM: micro → macro link as ABM’s strength.
 - **Discussion:** "What kinds of social problems make sense only at the level of emergence?"
-- **Slides:** [ABM Fundamentals](https://www.beautiful.ai/player/-OYwxxR_bNOw0YxzczoB)
+
+🔆 [ABM Fundamentals (Slides)](https://www.beautiful.ai/player/-OYwxxR_bNOw0YxzczoB)

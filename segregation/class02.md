@@ -8,14 +8,14 @@ exports:
     output: exports/class202.pdf
     id: class202-pdf
 downloads:
-  - id: class02-pdf
+  - id: class202-pdf
     title: A PDF of this document
 ---
 
 :::{admonition} ❗❗❗ Assignments Due This Class
 :icon: false
 
-- [**Lab Memo #1**](#lab-memo-1) is due before Class 02 (9/23). Make sure to submit your assignment on Moodle.
+- [**Lab Memo 1**](#lab-memo-1) is due before Class 02 (9/23). Make sure to submit your assignment on Moodle.
 :::
 
 ---

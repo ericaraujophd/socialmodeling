@@ -8,7 +8,7 @@ exports:
     output: exports/class201.pdf
     id: class201-pdf
 downloads:
-  - id: class01-pdf
+  - id: class201-pdf
     title: A PDF of this document
 ---
 
@@ -19,24 +19,20 @@ downloads:
 - **SRG** is required for this class.
 :::
 
-:::{admonition} 📔 Session A (Lecture)
-:icon: false
-:class: hint
+---
+
+## 📔 Session A (Lecture)
 
 - **Summary:** *History of segregation in social research.*  
   - Traditions: Du Bois’ *The Philadelphia Negro*, Chicago School, Massey & Denton’s structural view.
   - Concepts: de jure vs. de facto segregation; neighborhood effects; systemic racism.
 - **Slides:** [Segregation](slides/segregation-lecture.pptx)
-:::
 
 ---
 
-:::{admonition} 📔 Session B (SRG)
-:icon: false
-:class: note
+## 📔 Session B (SRG)
 
 - **Summary:** Discussion of readings.
   - Massey & Denton, *American Apartheid* (1993), Ch. 1.
   - Banaji, Fiske & Massey, “Systemic Racism” (*Cognitive Research*, 2021).
   - Deliverable: SRG prep sheet.
-:::

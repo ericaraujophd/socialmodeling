@@ -1,5 +1,5 @@
 ---
-title: 1.3 Discussion of Readings (Durkheim & Weber)
+title: 1.3 Durkheim & Weber
 subtitle: Heckman Library 406C
 date: 2025-09-09
 exports:
@@ -8,30 +8,35 @@ exports:
     output: exports/class103.pdf
     id: class103-pdf
 downloads:
-  - id: class03-pdf
+  - id: class103-pdf
     title: A PDF of this document
 abbreviations:
   SRG: "Student Reading Group"
 ---
 
-:::{admonition} ❗❗❗ Assignments Due This Class
+:::{admonition} ⏰ Assignments Due This Class
 :icon: false
-**SRG** is due before Class 03. Make sure to read the assigned texts and to prepare for discussion.
+**SRG** is due before class. Make sure to read the [assigned texts](#readings-module-1) and to prepare for discussion.
 :::
 
 ---
 
 ## 📔 Session A (SRG)
 
-- **Summary:** Discussion of readings (Durkheim & Weber).  
-- **SRG goal:** Contrast Durkheim’s irreducible social facts with Weber’s abstraction/ideal types.
-<!-- - **Slides:** [Emergence of the social sciences](https://www.beautiful.ai/player/-OZFluJbfXBTCEYfCix5) -->
+💬 Discussion of readings (Durkheim & Weber).
+- [Durkheim: The Rules of Sociological Method and Selected Texts on Sociology and Its Method](https://doi.org/10.1007/978-1-349-16939-9) (Excerpt)
+- "Objectivity" in social science and social policy. Excerpt from the [Methodology of the Social Sciences](https://doi.org/10.4324/9781315124445)
+
+🎯 **SRG goal:** Contrast Durkheim’s irreducible social facts with Weber’s abstraction/ideal types.
 
 ---
 
 ## 📔 Session B (Workshop)
 
-- **Summary:** Workshop — What makes a good model?
-  - Groups evaluate “bad” and “good” toy models.
+- What makes a good model?
+  - Groups are tasked with evaluating "bad" and "good" toy models.
   - Criteria: simplicity, clarity, generativity, transparency, theory link.
-- **Slides:** [Models and Methods](https://www.beautiful.ai/player/-OZtRpCWW9o_lYMXjvbp/Models-and-Methods)
+
+🔆 [Models and Methods (Slides)](https://www.beautiful.ai/player/-OZtRpCWW9o_lYMXjvbp/Models-and-Methods)
+
+---
