@@ -50,14 +50,7 @@ project:
       children:
           - file: cooperation/slos.md
           - file: cooperation/class01.md
-    # - title: "Appendix A: Segregation Model"
-    #   children:
-    #     - file: segregation/tutorial/tutorial.md
-    #     - file: segregation/tutorial/01_setup.md
-    #     - file: segregation/tutorial/02_households.md
-    #     - file: segregation/tutorial/03_dynamics.md
-    #     - file: segregation/tutorial/04_monitors.md
-    #     - file: segregation/tutorial/05_batch_run.md
+          - file: cooperation/class02.md
     - title: "NetLogo Tutorials"
       children:
       - title: "NetLogo Basics"
