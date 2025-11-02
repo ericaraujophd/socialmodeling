@@ -59,16 +59,17 @@ By the end of this module, students will be able to:
 
 The required and optional readings for this module are available by [📖 clicking in this link](https://calvincollege-my.sharepoint.com/:f:/g/personal/ea47_calvin_edu/Evi_dXqiS7tAt76m99UcJDABuoK2xgcbEVZsIHisQ6cU3A?e=WGaigH). You have to be logged in with your Calvin account to access them.
 
-- 📖 ["Neighborhood choice and neighborhood change"](https://doi.org/10.1086/507856) by Bruch, Elizabeth E., and Robert D. Mare, 2006.
+1. 📖 ["Neighborhood choice and neighborhood change"](https://doi.org/10.1086/507856) by Bruch, Elizabeth E., and Robert D. Mare, 2006.
+2. 📖 "American Apartheid" by @massey1993american, Ch. 1.
+3. 📖 ["Systemic Racism"](https://doi.org/10.1186/s41235-021-00349-3) by Banaji, Fiske & Massey , 2021.
 
 ### 🔓 Recommended Readings
 
 1. 📖 [How population structure shapes neighborhood segregation](https://doi.org/10.1086/675411) by Bruch, Elizabeth E., 2014.
 3. 📖 [Dynamic models of segregation](https://doi.org/10.1080/0022250X.1971.9989794) by Schelling, Thomas C., 1971.
-4. **Ryan Burge.** "The Most Segregated Hour? Rethinking Race and Religion in America".
-   - 📖 [Link to Article](https://substack.com/home/post/p-172087570)
-   - 📖 [Link to PDF Article](../readings/module2/optional/The-Most-Segregated-Hour.pdf)
-5. Doug McAdam. (1999). Political Process and the Development of Black Insurgency, 1930-1970.
+4. 📖 [The Most Segregated Hour? Rethinking Race and Religion in America](https://substack.com/home/post/p-172087570) by Ryan Burge, 2025.
+5. 📖 @mcadam1999political. Political Process and the Development of Black Insurgency, 1930-1970.
+6. 📖 @smaldino2023modeling. Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution. Chapter 3: The Schelling Chapter.
 
 ### 📽️ Inspirational Videos
 

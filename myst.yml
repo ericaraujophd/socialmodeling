@@ -39,9 +39,17 @@ project:
         - file: segregation/class02.md
         - file: segregation/class03.md
         - file: segregation/class04.md
-    # - title: "Module 3: Contagion"
-    #   children:
-    #       - file: contagion/slos.md
+    - title: "Module 3: Contagion"
+      children:
+          - file: contagion/slos.md
+          - file: contagion/class01.md
+          - file: contagion/class02.md
+          - file: contagion/class03.md
+          - file: contagion/class04.md
+    - title: "Module 4: Cooperation"
+      children:
+          - file: cooperation/slos.md
+          - file: cooperation/class01.md
     # - title: "Appendix A: Segregation Model"
     #   children:
     #     - file: segregation/tutorial/tutorial.md
@@ -50,6 +58,84 @@ project:
     #     - file: segregation/tutorial/03_dynamics.md
     #     - file: segregation/tutorial/04_monitors.md
     #     - file: segregation/tutorial/05_batch_run.md
+    - title: "NetLogo Tutorials"
+      children:
+      - title: "NetLogo Basics"
+        children:
+          - file: tutorials/netlogo/index.md
+          - title: Introduction
+            children:
+                - file: tutorials/netlogo/0_intro.md
+                - file: tutorials/netlogo/0a_intro.md
+                - file: tutorials/netlogo/0b_intro.md
+                - file: tutorials/netlogo/0c_intro.md
+                - file: tutorials/netlogo/0d_intro.md
+          - title: Basics
+            children:
+              - file: tutorials/netlogo/1_basics.md
+              - file: tutorials/netlogo/1a_basics.md
+              - file: tutorials/netlogo/1b_basics.md
+              - file: tutorials/netlogo/1c_basics.md
+              - file: tutorials/netlogo/1d_basics.md
+          - title: Agents
+            children:
+              - file: tutorials/netlogo/2_agents.md
+              - file: tutorials/netlogo/2a_agents.md
+              - file: tutorials/netlogo/2b_agents.md
+              - file: tutorials/netlogo/2c_agents.md
+              - file: tutorials/netlogo/2d_agents.md
+              - file: tutorials/netlogo/2e_agents.md
+              - file: tutorials/netlogo/2f_agents.md
+          - title: Environment
+            children:
+              - file: tutorials/netlogo/3_environment.md
+              - file: tutorials/netlogo/3a_environment.md
+              - file: tutorials/netlogo/3b_environment.md
+              - file: tutorials/netlogo/3c_environment.md
+              - file: tutorials/netlogo/3d_environment.md
+          - title: A First Model
+            children:
+              - file: tutorials/netlogo/4_first-model.md
+              - file: tutorials/netlogo/4a_first-model.md
+              - file: tutorials/netlogo/4b_first-model.md
+              - file: tutorials/netlogo/4c_first-model.md
+              - file: tutorials/netlogo/4d_first-model.md
+          - title: Data Analysis
+            children:
+              - file: tutorials/netlogo/5_data-analysis.md
+              - file: tutorials/netlogo/5a_data-analysis.md
+              - file: tutorials/netlogo/5b_data-analysis.md
+              - file: tutorials/netlogo/5c_data-analysis.md
+              - file: tutorials/netlogo/5d_data-analysis.md
+          - title: Advanced Topics
+            children:
+              - file: tutorials/netlogo/6_advanced.md
+              - file: tutorials/netlogo/6a_advanced.md
+              - file: tutorials/netlogo/6b_advanced.md
+              - file: tutorials/netlogo/6c_advanced.md
+              - file: tutorials/netlogo/6d_advanced.md
+      - title: "Segregation Model"
+        children:
+          - file: tutorials/segregation/tutorial.md
+          - file: tutorials/segregation/01_setup.md
+          - file: tutorials/segregation/02_households.md
+          - file: tutorials/segregation/03_dynamics.md
+          - file: tutorials/segregation/04_monitors.md
+          - file: tutorials/segregation/05_batch_run.md
+      - title: "Contagion Model"
+        children:
+        - file: tutorials/contagion/contagion.md
+        - title: "Spontaneous Model"
+          children:
+            - file: tutorials/contagion/01-spontaneous.md
+            - file: tutorials/contagion/02-agents.md
+        - file: tutorials/contagion/03-sir-analysis.md
+      - title: "Cooperation Model"
+        children:
+          - file: tutorials/cooperation/cooperation.md
+          - file: tutorials/cooperation/01-setup.md
+          - file: tutorials/cooperation/02-go.md
+          - file: tutorials/cooperation/03-exercise.md
   exports:
     # - format: typst
     - format: pdf

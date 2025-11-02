@@ -15,7 +15,7 @@ abbreviations:
 ---
 
 
-:::{admonition} ❗❗❗ Assignments Due This Class
+:::{admonition} ⏰ Assignments Due This Class
 :icon: false
 
 - **SRG** is required for this class.
@@ -25,12 +25,16 @@ abbreviations:
 
 ## 📔 Session A (SRG)
 
-- **Summary:** Talking about segregation models in social research
-  - [Neighborhood choice and neighborhood change](https://doi.org/10.1086/507856)
+Talking about segregation models in social research
+
+- [Neighborhood choice and neighborhood change](https://doi.org/10.1086/507856) by Bruch, E.E., & Mare, R.D. (2006).
 
 ---
 
 ## 📔 Session B (Lecture)
 
-- **Summary:** From Checkerboards to Cities
-- **Slides:** [Checkerboards to Cities](slides/checkerboards-to-cities.pptx)
+From Checkerboards to Cities.
+
+🔆 [Checkerboards to Cities (Slides)](https://calvincollege-my.sharepoint.com/:b:/g/personal/ea47_calvin_edu/EYmdS8-BXV5KqbbBDdWSLCoBh8bpV_uP4U-spCZG_mXoUg?e=ldNqCw)
+
+---

@@ -42,7 +42,7 @@ Micro-exercise: Adjust one parameter in a simple model, note results.
    2. **Parameters & Code:** Adjust one parameter; note what you changed. If you tried editing code, briefly explain what.
    3. **Results:** Describe what happened compared to the default. Include screenshot(s).
    4. **Interpretation:** What does this show about how simple rules create different outcomes?
-2. Write your Lab Memo. You can [download](https://calvincollege-my.sharepoint.com/:w:/g/personal/ea47_calvin_edu/ET85m4EZjGJBgUieIcf-DbwBLsmcQR2NA9Sj765A0VpDRQ?e=ywmLIN) the template in here.
+2. Write your Lab Memo. You can [download the template in here.](https://calvincollege-my.sharepoint.com/:w:/g/personal/ea47_calvin_edu/ET85m4EZjGJBgUieIcf-DbwBLsmcQR2NA9Sj765A0VpDRQ?e=ywmLIN)
 3. Submit your Lab Memo in PDF format through Moodle.
 
 [Here is one example of a Lab Memo](https://calvincollege-my.sharepoint.com/:b:/g/personal/ea47_calvin_edu/EaIUviPA-l9KtqueB9Z21zgBNFwhjHyNDaAGlzzWCJD_2Q?e=jl59O9) for the Fire model. Use it as a guide for writing your own lab memos during this course.

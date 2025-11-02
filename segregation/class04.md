@@ -12,7 +12,7 @@ downloads:
     title: A PDF of this document
 ---
 
-:::{admonition} ❗❗❗ Assignments Due This Class
+:::{admonition} ⏰ Assignments Due This Class
 :icon: false
 
 - [**Lab Memo #2**](#lab-memo-2) is due before class (9/25). Make sure to submit your assignment on Moodle.
@@ -22,19 +22,20 @@ downloads:
 
 ## 🖥️ Session A (Lab)
 
-- **Summary:** Adding plots, monitors, and reporters to the Schelling model.
+Adding plots, monitors, and reporters to the Schelling model.
 
 ---
 
 ## 🖥️ Session B (Visualization)
 
-- **Summary:** Running batch experiments with BehaviorSpace in NetLogo.
-  - The tutorial for this class is available [here](../segregation/tutorial/tutorial.md).
+Running batch experiments with BehaviorSpace in NetLogo.
+
+🛜 The tutorial for this class [is available here](../tutorials/segregation/tutorial.md).
 
 ---
 
 (lab-memo-3)=
-## 💻 **Assignment:** Lab Memo #3
+## 👷🏽‍♀️ **Assignment:** Lab Memo #3
 
 **Due:** 10/2 before class | **Points:** 100 points
 
@@ -45,8 +46,8 @@ downloads:
    - Set up the metrics you want to record during the simulations.
    - Run the batch experiment and collect the data.
    - Analyze the results using statistical or graphical methods. Look for patterns or trends in how the parameters affect the outcomes. You may use LLM tools to help you with the analysis. Make sure you are bringing up your own insights and interpretations also.
-2. Write your Lab Memo. You can [download the template in here](../resources/lab-memos/Lab_Memo_1_Worksheet.docx).
+2. Write your Lab Memo. You can [download the template in here.](https://calvincollege-my.sharepoint.com/:w:/g/personal/ea47_calvin_edu/ET85m4EZjGJBgUieIcf-DbwBLsmcQR2NA9Sj765A0VpDRQ?e=ywmLIN)
 3. Make sure you add the codes you've changed, as well as interface modifications.
 4. Submit your Lab Memo in PDF format through Moodle.
 
-[Here is one example of a Lab Memo](../resources/lab-memos/Lab_Memo_Worksheet_Example.pdf) for the Fire model. Use it as a guide for writing your own lab memos during this course.
+---

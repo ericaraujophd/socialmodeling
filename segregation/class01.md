@@ -10,10 +10,12 @@ exports:
 downloads:
   - id: class201-pdf
     title: A PDF of this document
+abbreviations:
+  SRG: "Student Reading Group"
 ---
 
 
-:::{admonition} ❗❗❗ Assignments Due This Class
+:::{admonition} ⏰ Assignments Due This Class
 :icon: false
 
 - **SRG** is required for this class.
@@ -23,16 +25,20 @@ downloads:
 
 ## 📔 Session A (Lecture)
 
-- **Summary:** *History of segregation in social research.*  
-  - Traditions: Du Bois’ *The Philadelphia Negro*, Chicago School, Massey & Denton’s structural view.
-  - Concepts: de jure vs. de facto segregation; neighborhood effects; systemic racism.
-- **Slides:** [Segregation](slides/segregation-lecture.pptx)
+History of segregation in social research.
+
+- Traditions: Du Bois’ *The Philadelphia Negro*, Chicago School, Massey & Denton’s structural view.
+- Concepts: *de jure* vs. *de facto* segregation; neighborhood effects; systemic racism.
+
+🔆 [Segregation (Slides)](https://calvincollege-my.sharepoint.com/:b:/g/personal/ea47_calvin_edu/EWHxemhvwe9OvBOg1HYDuFwBT-y-mCKTYgnx96qPZ34ZMw?e=phZ0PN)
 
 ---
 
 ## 📔 Session B (SRG)
 
-- **Summary:** Discussion of readings.
-  - Massey & Denton, *American Apartheid* (1993), Ch. 1.
-  - Banaji, Fiske & Massey, “Systemic Racism” (*Cognitive Research*, 2021).
-  - Deliverable: SRG prep sheet.
+Discussion of readings.
+
+- "American Apartheid" by @massey1993american, Ch. 1.
+- ["Systemic Racism"](https://doi.org/10.1186/s41235-021-00349-3) by Banaji, Fiske & Massey , 2021.
+
+---

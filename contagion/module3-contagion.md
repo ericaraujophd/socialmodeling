@@ -9,40 +9,8 @@
 
 *Heckman Library 406C*
 
-**Session A:** *Collective behavior: from contagion to thresholds.*
 
-- **Summary:**
-  - Historical approaches: Le Bon's crowd psychology, modern collective behavior theory.
-  - Threshold models: Granovetter's framework for understanding collective action.
-  - Applications: riots, social movements, technology adoption.
-- **Slides:** [Collective Behavior](slides/Collective_Behavior_Presentation.pptx)
 
-**Session B (SRG):** Discussion of readings.
-
-- **Summary:**
-  - Mark Granovetter, "Threshold Models of Collective Behavior" (*AJS*, 1978).
-  - Deliverable: SRG prep sheet due (per role).
-:::
-
-:::{tab-item} Lecture 10
-**Week 5: Thursday, October 2**
-
-*Heckman Library 406C*
-
-**Session A:** Contagion models: a brief overview.
-
-- **Summary:**
-  - Overview of contagion models: SIR, SEIR, and agent-based approaches.
-  - Discussions on limitations: norms, emotions, networks.
-- **Slides:** [Contagion Models](https://www.beautiful.ai/player/-OaZoGXdCLpuBZxYlVP9)
-
-**Session B (Lab):** Contagion Model in NetLogo.
-
-- **Summary:** Building contagion models in NetLogo for spontaneous infections.
-  - Code can be found [here](../contagion/codes/spontaneous.nlogox).
-  - Slides with some of my research from the past (some of it might be outdated) [Link](slides/Social-Modeling.pdf)  
-  - Deliverable: Lab memo #4 due next week.
-:::
 
 :::{tab-item} Lecture 11
 **Week 6: Tuesday, October 7**
@@ -105,18 +73,6 @@
 
 ::::{tab-set}
 
-:::{tab-item} Lab Memo #4
-**Due:** 10/16 before class | **Points:** 20 points
-
-**Prompt (1-2 pages):**
-
-Contagion model implementation & analysis
-
-1. Implement a contagion model in NetLogo using the SEIR framework.
-2. Analyze the model's behavior under different parameters (e.g., transmission rate, recovery rate).
-3. Write your Lab Memo. You can [download the template in here](../resources/lab-memos/Lab_Memo_1_Worksheet.docx).
-4. Make sure you add the codes you've changed, as well as interface modifications.
-5. Submit your Lab Memo in PDF format through Moodle.
 
 :::
 

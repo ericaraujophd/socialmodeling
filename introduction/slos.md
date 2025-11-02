@@ -60,13 +60,13 @@ By the end of this module, students will be able to accomplish the following SLO
 The required readings for this module are available by [📖 clicking in this link](https://calvincollege-my.sharepoint.com/:f:/g/personal/ea47_calvin_edu/EiuCqVZ9MOdKtTyUxWXLOdIB02XO3iuOokChiq6L7H-PMQ?e=UVzGsc). You have to be logged in with your Calvin account to access them.
 
 (readings-module-1)=
-1. [Durkheim: The Rules of Sociological Method and Selected Texts on Sociology and Its Method](https://doi.org/10.1007/978-1-349-16939-9) (Excerpt)
-2. "Objectivity" in social science and social policy. Excerpt from the [Methodology of the Social Sciences](https://doi.org/10.4324/9781315124445)
+1. 📖 [Durkheim: The Rules of Sociological Method and Selected Texts on Sociology and Its Method](https://doi.org/10.1007/978-1-349-16939-9) (Excerpt)
+2. 📖 "Objectivity" in social science and social policy. Excerpt from the [Methodology of the Social Sciences](https://doi.org/10.4324/9781315124445)
 
 ### 🔓 Recommended Readings
 
-1. @smaldino2023modeling. Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution. Chapter 1. 
-2. **Netlogo Programming Guide** (found in the same folder as the required readings above).
+1. 📖 @smaldino2023modeling. Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution. Chapter 1.
+2. 📖 **Netlogo Programming Guide** (found in the same folder as the required readings above).
 
 ### 📽️ Inspirational Videos
 

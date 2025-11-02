@@ -1,5 +1,5 @@
 ---
-title: 2.2 Schelling Segregation Model
+title: 2.2 Schelling Model
 subtitle: "Heckman Library 406C"
 date: 2025-09-18
 exports:
@@ -12,7 +12,7 @@ downloads:
     title: A PDF of this document
 ---
 
-:::{admonition} ❗❗❗ Assignments Due This Class
+:::{admonition} ⏰ Assignments Due This Class
 :icon: false
 
 - [**Lab Memo 1**](#lab-memo-1) is due before Class 02 (9/23). Make sure to submit your assignment on Moodle.
@@ -22,24 +22,25 @@ downloads:
 
 ## 🖥️ Session A (Lab)
 
-- **Summary:** Building Schelling's model
-- **Slides:** [Schelling Model](https://www.beautiful.ai/player/-O_TZHt3BB_HY2LgU6i9)
+Building Schelling's model on NetLogo.
+
+🔆 [Schelling Model (Slides)](https://www.beautiful.ai/player/-O_TZHt3BB_HY2LgU6i9)
 
 ---
 
 ## 🖥️ Session B (Visualization)
 
-- **Summary:** Discussing the implications of the Schelling model
-  - Explore tolerance thresholds, group asymmetry, neighborhood sizes.
-  - Class critique: What’s realistic? What’s missing (e.g., structural constraints)?
-- **Code:** [Netlogo Code developed in class](../segregation/code/segregation-class.nlogox)
-- **Deliverable:** [Lab Memo #2](#lab-memo-2).
+Discussing the implications of the Schelling model
 
+- Explore tolerance thresholds, group asymmetry, neighborhood sizes.
+- Class critique: What’s realistic? What’s missing (e.g., structural constraints)?
+
+💾 [Netlogo Code](https://calvincollege-my.sharepoint.com/:u:/g/personal/ea47_calvin_edu/EYqnXRb7555Fgk2aAAPvh_EBV63iocV2NFZhkajU2xt9gw?e=UZEXGC)
 
 ---
 
 (lab-memo-2)=
-## 💻 **Assignment:** Lab Memo #2
+## 👷🏽‍♀️ **Assignment:** Lab Memo #2
 
 **Due:** 9/25 before class | **Points:** 100 points
 
@@ -50,8 +51,8 @@ downloads:
    - **Change the neighborhood definition:** e.g., use a larger or smaller neighborhood size.
    - **Introduce heterogeneity:** e.g., allow agents to have different tolerance levels or preferences.
    - **Add mobility constraints:** e.g., limit how far agents can move in a single step.
-2. Write your Lab Memo. You can [download the template in here](../resources/lab-memos/Lab_Memo_1_Worksheet.docx).
+2. Write your Lab Memo. You can [download the template in here.](https://calvincollege-my.sharepoint.com/:w:/g/personal/ea47_calvin_edu/ET85m4EZjGJBgUieIcf-DbwBLsmcQR2NA9Sj765A0VpDRQ?e=ywmLIN)
 3. Make sure you add the codes you've changed, as well as interface modifications.
 4. Submit your Lab Memo in PDF format through Moodle.
 
-[Here is one example of a Lab Memo](../resources/lab-memos/Lab_Memo_Worksheet_Example.pdf) for the Fire model. Use it as a guide for writing your own lab memos during this course.
+---
