@@ -68,4 +68,22 @@ The required readings for this module are available by 📖 [clicking in this li
 
 1. 📖 @smaldino2023modeling. Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution. Chapter 9.
 
+### 🎥 Videos
+
+1. [Political Polarisation](https://www.youtube.com/watch?v=5QHZNIU7MFg)
+2. [The Rise of Political Polarization -- Goldman Stories: Henry Brady](https://www.youtube.com/watch?v=uQRjnM9hQDk)
+3. [Liberal vs. Conservative: A Neuroscientific Analysis with Gail Saltz | Big Think](https://www.youtube.com/watch?v=kI-un8rHP14)
+
+### 🔗 Online Resources
+
+1. [Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)
+2. [Network Corpus](https://github.com/microgravitas/network-corpus)
+3. [Colorado Index of Complex Networks](https://icon.colorado.edu/#!/)
+4. [Gephi Blog](https://gephi.wordpress.com/)
+5. [Kaggle - EDA: Gephi Network Analysis of YouTubers' Interactions](https://www.kaggle.com/code/weddou/eda-gephi-network-analysis-youtubers-interactions)
+
+### 🛠️ Software Tools
+
+1. [Gephi](https://gephi.org/) - Open-source network visualization and analysis software.
+
 ---
