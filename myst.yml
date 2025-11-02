@@ -51,6 +51,9 @@ project:
           - file: cooperation/slos.md
           - file: cooperation/class01.md
           - file: cooperation/class02.md
+    - title: "Module 5: Polarization"
+      children:
+          - file: polarization/slos.md
     - title: "NetLogo Tutorials"
       children:
       - title: "NetLogo Basics"
