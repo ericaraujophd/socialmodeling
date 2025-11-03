@@ -1,5 +1,5 @@
 ---
-title: 5.1 Introduction to Polarization
+title: 5.1 Polarization
 subtitle: Heckman Library 406C
 date: 2025-10-28
 exports:
@@ -27,11 +27,12 @@ abbreviations:
 
 Introduction to Polarization
 
-- Definitions and types of polarization: affective, ideological, social.
-- Measurement techniques: surveys, social media analysis, network structures.
-- Implications for democracy and governance: polarization's impact on political discourse and decision-making.
+- Evidence, Mechanisms, and Modeling the Divided Public
+- Patterns of polarization in opinion data
+- Affective & identity-based polarization
+- Network & cultural polarization
 
-🔆 [Polarization (Slides)]()
+🔆 [Polarization (Slides)](https://calvincollege-my.sharepoint.com/:b:/g/personal/ea47_calvin_edu/EcCooBuzd_5FoS4BDRysgwwBa77RhbXpzCOb8pbkI62D3A?e=Ko1mLO)
 
 ---
 

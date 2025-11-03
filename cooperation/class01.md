@@ -26,11 +26,13 @@ abbreviations:
 
 Cooperation & social dilemmas (commons, reciprocity).
 
-- Introduction to cooperation dilemmas: Prisoner's Dilemma, Public Goods, Tragedy of the Commons
-- Game theory basics and payoff structures
+- Introduction to cooperation dilemmas: Prisoner's Dilemma, Tragedy of the Commons
+- Strategies & Tit for Tat
 - Applications to resource management and collective action
+- The Alanya Fishery: Empirical Evidence
+- From theory to simulation
 
-🔆 [Introduction to Cooperation Dilemmas (Slides)]()
+🔆 [Introduction to Cooperation Dilemmas (Slides)](https://calvincollege-my.sharepoint.com/:b:/g/personal/ea47_calvin_edu/ETirWVDCi9dJhYQa6oMhJAABg5qJv74RxG2nz79pIgLUhA?e=MYwccf)
 
 ---
 
