@@ -41,22 +41,26 @@ project:
         - file: segregation/class04.md
     - title: "Module 3: Contagion"
       children:
-          - file: contagion/slos.md
-          - file: contagion/class01.md
-          - file: contagion/class02.md
-          - file: contagion/class03.md
-          - file: contagion/class04.md
+        - file: contagion/slos.md
+        - file: contagion/class01.md
+        - file: contagion/class02.md
+        - file: contagion/class03.md
+        - file: contagion/class04.md
     - title: "Module 4: Cooperation"
       children:
-          - file: cooperation/slos.md
-          - file: cooperation/class01.md
-          - file: cooperation/class02.md
+        - file: cooperation/slos.md
+        - file: cooperation/class01.md
+        - file: cooperation/class02.md
     - title: "Module 5: Polarization"
       children:
-          - file: polarization/slos.md
-          - file: polarization/class01.md
-          - file: polarization/class02.md
-          - file: polarization/class03.md
+        - file: polarization/slos.md
+        - file: polarization/class01.md
+        - file: polarization/class02.md
+        - file: polarization/class03.md
+    - title: "Final Project"
+      children:
+        - file: project/final_project_norms.md
+
     - title: "NetLogo Tutorials"
       children:
       - title: "NetLogo Basics"
