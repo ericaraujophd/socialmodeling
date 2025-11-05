@@ -67,6 +67,9 @@ The required readings for this module are available by 📖 [clicking in this li
 ### 🔓 Optional Readings
 
 1. 📖 @smaldino2023modeling. Modeling social behavior: Mathematical and agent-based models of social dynamics and cultural evolution. Chapter 9.
+2. 📖 [Petter Törnberg (2022)](https://doi.org/10.1073/pnas.2207159119). How digital media drive affective polarization through partisan sorting. PNAS.
+3. 📖 [Article: Science Corner: Who is My Neighbor?](https://blog.emergingscholars.org/2022/11/science-corner-who-is-my-neighbor/)
+
 
 ### 🎥 Videos
 
