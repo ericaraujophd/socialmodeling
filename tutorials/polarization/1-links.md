@@ -1,6 +1,14 @@
 ---
 title: "Phase 1: Link Fundamentals"
 date: 2025-11-11
+exports:
+  - format: pdf
+    template: lapreprint-typst
+    output: exports/polarization-phase1.pdf
+    id: polarization-phase1-pdf
+downloads:
+  - id: polarization-phase1-pdf
+    title: A PDF of this document
 ---
 
 ## Learning Objectives
