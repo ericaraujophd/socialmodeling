@@ -57,6 +57,7 @@ project:
         - file: polarization/class01.md
         - file: polarization/class02.md
         - file: polarization/class03.md
+        - file: polarization/class04.md
     - title: "Final Project"
       children:
         - file: project/final_project_norms.md
