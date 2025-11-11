@@ -139,6 +139,11 @@ project:
           - file: tutorials/cooperation/01-setup.md
           - file: tutorials/cooperation/02-go.md
           - file: tutorials/cooperation/03-exercise.md
+      - title: "Polarization Model"
+        children:
+          - file: tutorials/polarization/polarization.md
+          - file: tutorials/polarization/1-links.md
+          - file: tutorials/polarization/2-links-behaving.md
   exports:
     # - format: typst
     - format: pdf
