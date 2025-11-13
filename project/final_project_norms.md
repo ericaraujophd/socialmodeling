@@ -122,17 +122,12 @@ After receiving feedback, teams move into **design and research**:
    - Summarize relevant findings and modeling approaches
    - Identify where your model builds on, differs from, or critiques prior work
 
-### Expectations for Step 3
-
-- **Pseudocode or flowchart** showing model logic (one page)
-- **Theory memo** (1–2 pages) mapping theoretical concepts to model rules
-- **Annotated bibliography** (at least 3 sources: 1–2 theory + 1–2 empirical)
-- **Parameter table** specifying all model inputs and their ranges
-
 ### Design & Literature Deliverables
 
-- **Schema Document** (pseudocode + conceptual diagram)
-- **Theory Discussion** (written or presentation)
+- **Pseudocode or flowchart** showing model logic (pseudocode + conceptual diagram) - one page
+- **Theory memo** (1–2 pages) mapping theoretical concepts to model rules
+- **Parameter table** specifying all model inputs and their ranges
+- **Annotated bibliography** (at least 3 sources: 1–2 theory + 1–2 empirical)
 - **Literature Review Summary** (1–2 pages, shared with class in SRG-style discussion)
 
 These deliverables are due by **Nov 21** and will guide your coding in Step 4.

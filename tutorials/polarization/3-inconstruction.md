@@ -1,15 +1,24 @@
-## Phase 3: The Polarization Model
+---
+title: "Phase 3: Polarization Model"
+date: 2025-11-11
+exports:
+  - format: pdf
+    template: lapreprint-typst
+    output: exports/polarization-phase3.pdf
+    id: polarization-phase3-pdf
+downloads:
+  - id: polarization-phase3-pdf
+    title: A PDF of this document
+---
 
-**Duration**: 30-35 minutes
-**Goals**: Students implement the complete model with homophily and observe emergent polarization
-
-### Learning Objectives
+## Learning Objectives
 
 By the end of Phase 3, students should be able to:
-- Implement homophilic link formation
-- Understand how simple local preferences create large-scale social fragmentation
-- Measure polarization through multiple metrics
-- Observe and analyze emergent network structures
+
+- Implement homophilic link formation.
+- Understand how simple local preferences create large-scale social fragmentation.
+- Measure polarization through multiple metrics.
+- Observe and analyze emergent network structures.
 
 ### Conceptual Frame
 

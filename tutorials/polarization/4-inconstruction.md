@@ -1,3 +1,16 @@
+---
+title: "Phase 2: Links with Behavior"
+date: 2025-11-11
+exports:
+  - format: pdf
+    template: lapreprint-typst
+    output: exports/polarization-phase2.pdf
+    id: polarization-phase2-pdf
+downloads:
+  - id: polarization-phase2-pdf
+    title: A PDF of this document
+---
+
 ## Phase 4: Evaluation & Analysis
 
 **Duration**: 20-30 minutes

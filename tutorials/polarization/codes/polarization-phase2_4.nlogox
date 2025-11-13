@@ -126,6 +126,13 @@ to go
   break-weak-ties
   visualize-strong-ties
   tick
+end
+
+;; 2.4
+
+to-report estimate-components
+  let isolated-people count people with [count link-neighbors = 0]
+  report isolated-people
 end]]></code>
   <widgets>
     <view x="368" wrappingAllowedX="false" y="10" frameRate="30.0" minPycor="-16" height="434" showTickCounter="true" patchSize="13.0" fontSize="10" wrappingAllowedY="false" width="434" tickCounterLabel="ticks" maxPycor="16" updateMode="0" maxPxcor="16" minPxcor="-16"></view>
@@ -137,6 +144,7 @@ repeat 50 [go-with-strength 0.1]  ; Weak influence</button>
 repeat 50 [go-with-strength 0.5]  ; Strong influence</button>
     <button x="835" y="155" height="40" disableUntilTicks="false" forever="false" kind="Observer" width="110" display="scenario 3 (2.3)">setup
 repeat 100 [go]</button>
+    <monitor x="235" precision="17" y="130" height="60" fontSize="11" width="100">estimate-components</monitor>
   </widgets>
   <info>## WHAT IS IT?
 
